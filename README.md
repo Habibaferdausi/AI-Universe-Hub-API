@@ -6,3 +6,14 @@ The website is a comprehensive repository of AI-related apps that provides users
 
 
 
+
+## 🔗 Link
+
+
+[AI Universe Hub](https://habibaferdausi.github.io/AI-Universe-Hub-API)
+
+
+
+
+
+..
